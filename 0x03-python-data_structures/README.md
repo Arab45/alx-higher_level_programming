@@ -1,1 +1,1 @@
-structure
+data structure
